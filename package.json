@@ -1,0 +1,14 @@
+{
+  "name": "design-patterns-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "example": "tsx"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.0",
+    "typescript": "^5.5.0"
+  }
+}
